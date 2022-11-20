@@ -3,3 +3,7 @@
 ./conf.d/default.conf
 ./html/
 ./vhost.d/
+certs/default.crt
+certs/default.key
+certs/dhparam.pem
+conf.d/default.conf
